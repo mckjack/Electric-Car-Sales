@@ -18,6 +18,8 @@ Questions we hope to answer in our project are:
 3. Can we predict electric car sales over the next year based on the 2 datasets?
 4. Can we predict crude oil prices over the next year?
 
+We selected this topic due to rising gas prices and we wanted to study how it impacts consumer purchases for automobiles.  Our hypothesis is that the gas prices do impact consumer choices.
+
 ## 4. Diagram of Data Pipeline (ETL, Database, and Machine Learning model)
 ![image](https://user-images.githubusercontent.com/100737452/179631920-3db32829-3576-46e6-b218-e2d0657f6d25.png)
 
