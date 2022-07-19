@@ -22,4 +22,4 @@ We selected this topic due to rising gas prices and we wanted to study how it im
 
 ## 4. Diagram of Data Pipeline (ETL, Database, and Machine Learning model)
 ![image](https://user-images.githubusercontent.com/100737452/179631920-3db32829-3576-46e6-b218-e2d0657f6d25.png)
-
+- We decided based upon our hypothesis and dataset variables that a time-series regression model would be the most ideal model going forward. From the generated database we will use this model to predict the total number of electric cars sold in a given time frame. 
