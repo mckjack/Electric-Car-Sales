@@ -1,7 +1,7 @@
 # Project-Data-Analytics-Group5
 
 ## 1. Database Mock Up (Preferably a ERD - Entity Relationship Diagram)
-insert here
+![image](https://user-images.githubusercontent.com/100737452/179638294-800abcb7-d0b4-4ac2-82b5-e4c165a400d9.png)
 
 
 ## 2. Github repo and everyone has merged with the main branch at least once
