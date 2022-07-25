@@ -1,6 +1,6 @@
 # Project-Data-Analytics-Group5
 
-## SEGMENT 2
+### SEGMENT 2
 Our draft Google slide presentation: https://docs.google.com/presentation/d/1aUmmhFLKrxk1ZIevb6XBO8-0x8Yc5DKfiZdjPkO4udA/edit?usp=sharing
 
 ## 1. Create database in RDS/MongoDB (or a database of your choice) along with tables from the ERD and the data imported in the tables.
@@ -16,7 +16,7 @@ Our draft Google slide presentation: https://docs.google.com/presentation/d/1aUm
 
 
 
-## SEGMENT 1
+### SEGMENT 1
 
 ## 1. Database Mock Up (Preferably a ERD - Entity Relationship Diagram)
 ![image](https://user-images.githubusercontent.com/100737452/179638294-800abcb7-d0b4-4ac2-82b5-e4c165a400d9.png)
