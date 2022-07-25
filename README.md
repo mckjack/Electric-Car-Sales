@@ -8,13 +8,13 @@ Our draft Google slide presentation: https://docs.google.com/presentation/d/1aUm
 < to insert link to code>
 
 ## 2. Python code connecting to the database and getting bringing data back in Python.
-<to insert link to code>
+< to insert link to code>
 
 ## 3. Python/R/Tableau to perform Exploratory Data Analysis (understanding the data and the relationship within the data)
-<to insert blueprint for data analysis>
+< to insert blueprint for data analysis>
 
 ## 4. Python code for training and testing the benchmark (simple) machine learning model as per your Segment 1 deliverable e.g. Logistic Regression for classification, Kmean for clustering etc.
-<to insert link to code>
+< to insert link to code>
 
 
 ### SEGMENT 1
