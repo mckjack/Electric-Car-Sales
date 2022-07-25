@@ -1,13 +1,13 @@
 # Project-Data-Analytics-Group5
 
-##SEGMENT 2
-##1. Create database in RDS/MongoDB (or a database of your choice) along with tables from the ERD and the data imported in the tables.
+## SEGMENT 2
+## 1. Create database in RDS/MongoDB (or a database of your choice) along with tables from the ERD and the data imported in the tables.
 
-##2. Python code connecting to the database and getting bringing data back in Python.
+## 2. Python code connecting to the database and getting bringing data back in Python.
 
-##3. Python/R/Tableau to perform Exploratory Data Analysis (understanding the data and the relationship within the data)
+## 3. Python/R/Tableau to perform Exploratory Data Analysis (understanding the data and the relationship within the data)
 
-##4. Python code for training and testing the benchmark (simple) machine learning model as per your Segment 1 deliverable e.g. Logistic Regression for classification, Kmean for clustering etc.
+## 4. Python code for training and testing the benchmark (simple) machine learning model as per your Segment 1 deliverable e.g. Logistic Regression for classification, Kmean for clustering etc.
 
 **----------------------------------------------------------------------------------------------------------
 
