@@ -5,12 +5,15 @@
 Our **draft** presentation is available here: [Project Data Analytics Group 5 Presentation](https://docs.google.com/presentation/d/1aUmmhFLKrxk1ZIevb6XBO8-0x8Yc5DKfiZdjPkO4udA/edit?usp=sharing).
 
 ## 1. Create database in RDS/MongoDB (or a database of your choice) along with tables from the ERD and the data imported in the tables.
-[Connect_AWSdb_create_tables.ipynb](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/49c17b05d3aee51411c5ec0fdaf988c5ed866088/Connect_AWSdb_create_tables.ipynb)
+This code was used to create our DB: [Connect_AWSdb_create_tables.ipynb](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/49c17b05d3aee51411c5ec0fdaf988c5ed866088/Connect_AWSdb_create_tables.ipynb)
 
 ## 2. Python code connecting to the database and getting bringing data back in Python.
-< to insert link to code>
+This code was used to connect to the DB: [WriteDFstoPython](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/4919ab143ab1a628c4d748a802de57bbd8bc4b62/Write_DFs_From_Tables.ipynb)
 
 ## 3. Python/R/Tableau to perform Exploratory Data Analysis (understanding the data and the relationship within the data)
+This code was used to clean the data: [CleaningDFs](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/ad4e5b28c205a66e2c77e338cc167ae48f1b0bb8/DFs_From_Tables.ipynb)
+
+**Tableau Presentation plan**
 ![image](https://user-images.githubusercontent.com/100737452/181134805-2ce4fdfa-111c-4ebe-b656-6acfc15826ad.png)
 
 
