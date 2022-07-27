@@ -2,7 +2,7 @@
 
 ### SEGMENT 2
 
-Our draft Google slide presentation: https://docs.google.com/presentation/d/1aUmmhFLKrxk1ZIevb6XBO8-0x8Yc5DKfiZdjPkO4udA/edit?usp=sharing
+Our **draft** presentation is available here: [Project Data Analytics Group 5 Presentation](https://docs.google.com/presentation/d/1aUmmhFLKrxk1ZIevb6XBO8-0x8Yc5DKfiZdjPkO4udA/edit?usp=sharing).
 
 ## 1. Create database in RDS/MongoDB (or a database of your choice) along with tables from the ERD and the data imported in the tables.
 < to insert link to code>
@@ -11,7 +11,8 @@ Our draft Google slide presentation: https://docs.google.com/presentation/d/1aUm
 < to insert link to code>
 
 ## 3. Python/R/Tableau to perform Exploratory Data Analysis (understanding the data and the relationship within the data)
-< to insert blueprint for data analysis>
+![image](https://user-images.githubusercontent.com/100737452/181134805-2ce4fdfa-111c-4ebe-b656-6acfc15826ad.png)
+
 
 ## 4. Python code for training and testing the benchmark (simple) machine learning model as per your Segment 1 deliverable e.g. Logistic Regression for classification, Kmean for clustering etc.
 < to insert link to code>
