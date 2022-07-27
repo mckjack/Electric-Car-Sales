@@ -5,7 +5,7 @@
 Our **draft** presentation is available here: [Project Data Analytics Group 5 Presentation](https://docs.google.com/presentation/d/1aUmmhFLKrxk1ZIevb6XBO8-0x8Yc5DKfiZdjPkO4udA/edit?usp=sharing).
 
 ## 1. Create database in RDS/MongoDB (or a database of your choice) along with tables from the ERD and the data imported in the tables.
-< to insert link to code>
+[Connect_AWSdb_create_tables.ipynb](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/49c17b05d3aee51411c5ec0fdaf988c5ed866088/Connect_AWSdb_create_tables.ipynb)
 
 ## 2. Python code connecting to the database and getting bringing data back in Python.
 < to insert link to code>
