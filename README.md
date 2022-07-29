@@ -19,7 +19,11 @@ This code was used to clean the data: [CleaningDFs](https://github.com/mckjack/P
 
 ## 4. Python code for training and testing the benchmark (simple) machine learning model as per your Segment 1 deliverable e.g. Logistic Regression for classification, Kmean for clustering etc.
 This code was used for our machine learning model: [MachineLearningModel](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/main/Model_Code_Phase_1.ipynb)
-
+ - The data preprocessing consisted of cleaning the dataframes. We replaced the null values with a value of 0 in our electric car sales dataframe. We also filtered the data for each model prediction we are going to be making. 
+ - Our feature selection includes oil prices, 3 features of the car (range, recharge rate, efficiency), and number of charging stations. The decision-making process is that these features under a machine learning model will be able to target and predict the output of electric car sales respectively. 
+ - The data was split into a training set with X_train and y_train as our input and target data respectively. 
+ - The models we are choosing are Linear Regression for a single feature and multiple Linear Regression. We chose this since it was the most simple and baseline model to choose from that would give us a continuous value as our prediction(ie. Electric Car Sales). Some of its limitations is linked to the features used, meaning that the model is only as good as the features we have chosen to use. 
+ - Our end goal is to see what out of these features is able to predict electric car sales accurately by comparing each of them individually. 
 
 ### SEGMENT 1
 
