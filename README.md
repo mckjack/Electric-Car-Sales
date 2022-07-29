@@ -18,7 +18,7 @@ This code was used to clean the data: [CleaningDFs](https://github.com/mckjack/P
 
 
 ## 4. Python code for training and testing the benchmark (simple) machine learning model as per your Segment 1 deliverable e.g. Logistic Regression for classification, Kmean for clustering etc.
-< to insert link to code>
+This code was used for our machine learning model: [MachineLearningModel](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/main/Model_Code_Phase_1.ipynb)
 
 
 ### SEGMENT 1
