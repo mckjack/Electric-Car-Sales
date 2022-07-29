@@ -23,7 +23,7 @@ This code was used for our machine learning model: [MachineLearningModel](https:
  - Our feature selection includes oil prices, 3 features of the car (range, recharge rate, efficiency), and number of charging stations. The decision-making process is that these features under a machine learning model will be able to target and predict the output of electric car sales respectively. 
  - The data was split into a training set with X_train and y_train as our input and target data respectively. 
  - The models we are choosing are Linear Regression for a single feature and multiple Linear Regression. We chose this since it was the most simple and baseline model to choose from that would give us a continuous value as our prediction(ie. Electric Car Sales). Some of its limitations is linked to the features used, meaning that the model is only as good as the features we have chosen to use. 
- - Our end goal is to see what out of these features is able to predict electric car sales accurately by comparing each of them individually. 
+ - Our end goal is to see what out of these features is able to predict electric car sales accurately by comparing each of the models individually. 
 
 ### SEGMENT 1
 
