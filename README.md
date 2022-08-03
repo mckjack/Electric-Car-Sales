@@ -1,5 +1,9 @@
 # Project-Data-Analytics-Group5
 
+### SEGMENT 3
+
+
+### ----------------------------------------------------------------------------------------------------------
 ### SEGMENT 2
 
 Our **draft** presentation is available here: [Project Data Analytics Group 5 Presentation](https://docs.google.com/presentation/d/1aUmmhFLKrxk1ZIevb6XBO8-0x8Yc5DKfiZdjPkO4udA/edit?usp=sharing).
@@ -25,6 +29,7 @@ This code was used for our machine learning model: [MachineLearningModel](https:
  - The models we are choosing are Linear Regression for a single feature and multiple Linear Regression. We chose this since it was the most simple and baseline model to choose from that would give us a continuous value as our prediction(ie. Electric Car Sales). Some of its limitations is linked to the features used, meaning that the model is only as good as the features we have chosen to use. 
  - Our end goal is to see what out of these features is able to predict electric car sales accurately by comparing each of the models individually. 
 
+### ----------------------------------------------------------------------------------------------------------
 ### SEGMENT 1
 
 ## 1. Database Mock Up (Preferably a ERD - Entity Relationship Diagram)
