@@ -38,6 +38,9 @@ This code was used to connect to the DB: [WriteDFstoPython](https://github.com/m
 This code was used to clean the data: [CleaningDFs](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/ad4e5b28c205a66e2c77e338cc167ae48f1b0bb8/DFs_From_Tables.ipynb)
 
 ## 5. Exploratory Data Analysis
+To better understand the data and how each dataset related to each other, we performed the connection through Tableau by importing the cleaned datasets from the previous steps and "joining" the data by date.
+![image](https://user-images.githubusercontent.com/100737452/182815679-69b8107f-eb54-49af-8ab5-7fff21f52400.png)
+![image](https://user-images.githubusercontent.com/100737452/182815719-38bb5451-6634-4714-a8e7-7e85564c853a.png)
 
 
 ## 6. Machine Learning
