@@ -28,11 +28,17 @@ Early in the project, we determined our applications to be used and our data pip
 ![image](https://user-images.githubusercontent.com/100737452/179638294-800abcb7-d0b4-4ac2-82b5-e4c165a400d9.png)
 
 ### Database
-We created a databased in RDS and imported the data in the tables using the following code: [Connect_AWSdb_create_tables.ipynb](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/49c17b05d3aee51411c5ec0fdaf988c5ed866088/Connect_AWSdb_create_tables.ipynb)
+1. We created a PostgreSQL database on Amazon RDS 
+![Create_DataBase](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/data_analystics_project_ning/Images/Create_Database.png)
+
+2. We connected to the database and created tables using the following code: [Connect_AWSdb_create_tables.ipynb](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/49c17b05d3aee51411c5ec0fdaf988c5ed866088/Connect_AWSdb_create_tables.ipynb)
+
+3. We imported the data in the tables with PgAdmin
+![Import_csv_to tables](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/data_analystics_project_ning/Images/Import_csv_to%20tables.png)
 
 ## 4. Data Preparation (including cleaning & connection)
-### Connection
-This code was used to connect to the DB: [WriteDFstoPython](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/4919ab143ab1a628c4d748a802de57bbd8bc4b62/Write_DFs_From_Tables.ipynb)
+### Write DataFrames From Tables
+We connected to the database and read data of tables into Pandas DataFrames using the following code:: [Write_DFs_From_Tables.ipynb](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/4919ab143ab1a628c4d748a802de57bbd8bc4b62/Write_DFs_From_Tables.ipynb)
 
 ### Cleaning
 This code was used to clean the data: [CleaningDFs](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/ad4e5b28c205a66e2c77e338cc167ae48f1b0bb8/DFs_From_Tables.ipynb)
