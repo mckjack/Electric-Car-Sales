@@ -73,8 +73,7 @@ We used Tableau to create our dashboard and the results can be found here:
 ## 8. Results/Findings
 In conclusion, our findings are:
 - Gas prices did not have any effect on electric car sales in the US
-- We are able to predict electric car sales over the next year based on XXX
-- Our prediction on gas prices over the next year is limited to XXX
+- Based upon machine learning models, features of certain electic car models don't effect sales
 - Increase in electric car sales and available infrastructure go hand in hand
 
 In order to better predict gas prices, other factors would need to come into play for our model (e.g., pandemic, supply, demand, global unrest).  
