@@ -52,10 +52,18 @@ To better understand the data and how each dataset related to each other, we per
 ## 6. Machine Learning
 This code was used for our machine learning model: [MachineLearningModel](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/main/Model_Code_Phase_1.ipynb)
  - The data preprocessing consisted of cleaning the dataframes. We replaced the null values with a value of 0 in our electric car sales dataframe. We also filtered the data for each model prediction we are going to be making. 
- - Our feature selection includes oil prices, 3 features of the car (range, recharge rate, efficiency), and number of charging stations. The decision-making process is that these features under a machine learning model will be able to target and predict the output of electric car sales respectively. 
+ - Our feature selection includes oil prices, 4 features of the car (range, recharge rate, charging power, and price). The decision-making process is that these features under a machine learning model will be able to target and predict the output of electric car sales respectively. 
  - The data was split into a training set with X_train and y_train as our input and target data respectively. 
- - The models we are choosing are Linear Regression for a single feature and multiple Linear Regression. We chose this since it was the most simple and baseline model to choose from that would give us a continuous value as our prediction(ie. Electric Car Sales). Some of its limitations is linked to the features used, meaning that the model is only as good as the features we have chosen to use. 
- - Our end goal is to see what out of these features is able to predict electric car sales accurately by comparing each of the models individually. 
+ - The models we are choosing are Linear Regression for a single feature and Random Tree Regressor for 4 features. We used Linear Regression to predict car sales using independent variable(oil prices). We used Random Tree Regressor to predict car sales using range, recharge rate, charging power, and price of certain makes and models.
+ - During our Linear Regression model we used feature engineering on the sales dataset to see if we could improve the r-squared value. After droppping some columns we achieved an r-squared value of 0.34, so a slight increase but not much. 
+ 
+ Results:
+ - Linear Regression r-squared = 0.33
+ - Random Tree Regressor = 0.44
+ 
+ Summary:
+
+We see that these models and datasets used did not predict car sales well respectively. This is limited to the features we used to predict these sales and those features were ultimately limited to the data that we found. For example our oil prices and electric car sales data was limited to 2015-2019, meaning that there could be other more recent datasets that could give better accuracy. We can also see that the Random Tree Regressor model did a slightly better job than the Linear Regression model. 
 
 ## 7. Dashboard
 We used Tableau to create our dashboard and the results can be found here:
