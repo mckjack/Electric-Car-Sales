@@ -50,7 +50,7 @@ To better understand the data and how each dataset related to each other, we per
 
 
 ## 6. Machine Learning
-This code was used for our machine learning model: [MachineLearningModel](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/main/Model_Code_Phase_1.ipynb)
+This code was used for our machine learning model: [MachineLearningModel](https://github.com/mckjack/Project-Data-Analytics-Group5/blob/main/Model_Code_Phase_2.ipynb)
  - The data preprocessing consisted of cleaning the dataframes. We replaced the null values with a value of 0 in our electric car sales dataframe. We also filtered the data for each model prediction we are going to be making. 
  - Our feature selection includes oil prices, 4 features of the car (range, recharge rate, charging power, and price). The decision-making process is that these features under a machine learning model will be able to target and predict the output of electric car sales respectively. 
  - The data was split into a training set with X_train and y_train as our input and target data respectively. 
